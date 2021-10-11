@@ -2,9 +2,9 @@
 This Repository helps to you learn with their first successful pull request and Know How to do open source contributions Also For Intermediate and Advance level contributors as well.:partying_face:
 
 
-<a href="https://github.com/RishuRajan/Hacktoberfest_2021/"><img align='center' height="30" src="https://img.shields.io/badge/Hacktoberfest-2021-orange.svg?&style=for-the-badge&logo=KD&logoColor=blue" /></a> <br><br>
+<a href="https://github.com/Saradyadav/HacktoberFest_2021/"><img align='center' height="30" src="https://img.shields.io/badge/Hacktoberfest-2021-orange.svg?&style=for-the-badge&logo=KD&logoColor=blue" /></a> <br><br>
 
-<p align="center"><img src="https://github.com/RishuRajan/Hacktoberfest_2021/blob/main/file/Hacktoberfest_2021.jpg" alt="Web Developement Image" width=850px />
+<p align="center"><img src="https://github.com/Saradyadav/HacktoberFest_2021/blob/main/Hacktoberfest_2021.jpg" alt="Web Developement Image" width=850px />
  
 :star: Register for Hacktoberfest: Navigate to the [Hacktoberfest registration page](https://hacktoberfest.digitalocean.com/) and follow the instructions. But, read the rules carefully before you do and then sign In using your GitHub credentials.
 
